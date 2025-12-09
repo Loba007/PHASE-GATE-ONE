@@ -7,8 +7,7 @@ System.out.println("\nWELCOME TO GROCERY MANAGER APP!");
 System.out.println("Kindly enter the list of items to be added for purchase:");
 String userInput = scanner.nextLine();
 
-int addItem = [0];
-String 
+//int addItem = [0]; 
 
      System.out.println("""
     
